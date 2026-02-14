@@ -21,7 +21,7 @@ For more than **three years**, I've been involved in academic software developme
 --
 
 ## Languages
-- 🌍 C1 English [![Check Certificate](https://img.shields.io/badge/LinkedIn-red)](https://cert.efset.org/es/v5dLTb)
+- 🌍 C1 English [![Check Certificate](https://img.shields.io/badge/Check%20certificate-red)](https://cert.efset.org/es/v5dLTb)
 - 📍 Native Spanish
 
 ---
