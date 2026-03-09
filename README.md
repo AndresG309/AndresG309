@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Andres Fernández  
 
 I'm a **Multimedia Engineering student** at Universidad Autónoma de Occidente (8th semester), with complementary training in **Front-End and Back-End development** through online courses and self-learning.  
-For more than **three years**, I've been involved in academic software development projects, from medium to high complexity, which helped me strengthen both my technical skills and my ability to work in teams, lead initiatives, and adapt to new challenges.  
+For more than **three and a half years**, I've been involved in software development projects, from medium to high complexity, which helped me strengthen both my technical skills and my ability to work in teams, lead initiatives, and adapt to new challenges.  
 
 ---
 
@@ -11,17 +11,18 @@ For more than **three years**, I've been involved in academic software developme
 - **Frameworks & Tools**: React, NodeJS, Flutter, Git/GitHub.
 - **Databases**: MySQL, MongoDB.
 - **Design & UI/UX**: Figma, Adobe Illustrator, Adobe Photoshop, Adobe After Effects.
+- **Project Management**: Jira and Scrum Metodology.
 
 ---
 
 ## 🌱 About Me
 - 📚 Constant learner through courses, forums, and hands-on practice.
-- 🤝 Passionate about building projects with real-world impact.
+- 🤝 I want projects with real-world impact to become a reality.
 
---
+---
 
-## Languages
-- 🌍 C1 English [![Check Certificate](https://img.shields.io/badge/Check%20certificate-red)](https://cert.efset.org/es/v5dLTb)
+## 💬 Languages
+- 🌍 [C1 English](https://cert.efset.org/es/v5dLTb)
 - 📍 Native Spanish
 
 ---
