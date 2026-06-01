@@ -8,7 +8,7 @@ For more than **three and a half years**, I've been involved in software develop
 ## 🛠️ Tech Stack
 - **Languages**: C#, Java, Python, JavaScript.
 - **Web**: HTML, CSS, WordPress.
-- **Frameworks & Tools**: React, NodeJS, Flutter, Git/GitHub.
+- **Frameworks & Tools**: React, NodeJS, Flutter, Unity, Git/GitHub.
 - **Databases**: MySQL, MongoDB.
 - **Design & UI/UX**: Figma, Adobe Illustrator, Adobe Photoshop, Adobe After Effects.
 - **Project Management**: Jira and Scrum Metodology.
