@@ -21,8 +21,8 @@ Say hello to my cat!
 
 ## 👀 Repos Worth Checking Out
 
-- [Ubikasa Deployment](https://github.com/AndresG309/despliegue-ubikasa) — A university project for deploying a website and its supporting microservices that was given to me along with three other classmates. I was responsible for part of the development, for integrating the components created by the others, and for deploying everything on Linux virtual machines (all on my local machine).
-- [SceneMaster - Unity Utility](https://github.com/AndresG309/SceneMaster) — This is a tool I've been working on for using transitions between Unity Scenes. I wanted this to be my first open-source contribution to the community, and i hope someday it could help others.
+- [Ubikasa Deployment](https://github.com/AndresG309/despliegue-ubikasa) — A university project for deploying a website and its supporting microservices that was given to me along with three other classmates. I was responsible for part of the development, for integrating the components created by the others, and for deploying everything on Linux virtual machines (on my local machine).
+- [SceneMaster - Unity Utility](https://github.com/AndresG309/SceneMaster) — This is a tool I've been working on for using transitions between scenes on Unity. It is build as a fluent builder pattern class. I wanted this to be my first open-source contribution to the community, and i hope someday it could help others.
 - [This Readme design](https://github.com/AndresG309/AndresG309) — I like to understand how things work so I can get the most out of them. This is my way of playing around with Markdown (More specifically Github's Markdown due to its limitations) while still being creative!
 
 These projects are explained better in [my portfolio](https://myportfolio.andres-g09.vercel.app) (hopefully).
