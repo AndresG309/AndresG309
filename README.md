@@ -1,37 +1,51 @@
-# 👋 Hi, I'm Andrés Fernández - FullStack Developer
-  
-I am a **multimedia engineering student** at the Universidad Autónoma de Occidente, currently in my ninth and final semester, complementary training through online courses and self-directed learning. For more than **four (4) years**, I have participated in academic software development projects of medium to high complexity, which has allowed me to strengthen both my technical skills and my ability to work in a team, lead initiatives, and adapt to different challenges.
-<br>
-[Check My Portfolio](https://myportfolio.andres-g09.vercel.app)
+# <img src="./assets/WavingCat.gif" alt="Waving cat" style="width:40px"/> Hi, I'm Andrés Fernández. Full-Stack Developer
+
+I am a multimedia engineering student at the Universidad Autónoma de Occidente, currently in my ninth and final semester, complementary training through online courses and self-directed learning. For more than four (4) years, I have participated in academic software development projects of medium to high complexity, which has allowed me to strengthen both my technical skills and my ability to work in a team, lead initiatives, and adapt to different challenges. **<a href="https://myportfolio.andres-g09.vercel.app" target="_blank">Check my portfolio <svg xmlns="http://www.w3.org/2000/svg" height="16px" viewBox="0 -960 960 960" width="16px" fill="#e3e3e3"><path d="M200-120q-33 0-56.5-23.5T120-200v-560q0-33 23.5-56.5T200-840h280v80H200v560h560v-280h80v280q0 33-23.5 56.5T760-120H200Zm188-212-56-56 372-372H560v-80h280v280h-80v-144L388-332Z"/></svg></a>**
+
+<img alt="Banner" src="./assets/WalkingCat.gif">
 
 ---
+<small>Say hello to my cat!</small>
+
+<br>
+
+## 👀 Repos Worth Checking Out
+
+- [Ubikasa Deployment](https://github.com/AndresG309/despliegue-ubikasa) — A university project for deploying a website and its supporting microservices that was given to me along with three other classmates. I was responsible for part of the development, for integrating the components created by the others, and for deploying everything on Linux virtual machines (all on my local machine).
+- [SceneMaster - Unity Utility](https://github.com/AndresG309/SceneMaster) — This is a tool I've been working on for using transitions between Unity Scenes. I wanted this to be my first open-source contribution to the community, and i hope someday it could help others.
+- [This Readme design](https://github.com/AndresG309/AndresG309) — I like to understand how things work so I can get the most out of them. This is my way of playing around with Markdown while still being creative!
+
+These projects are explained better in [my portfolio](https://myportfolio.andres-g09.vercel.app) (hopefully).
+
+<br>
 
 ## 🛠️ Tech Stack
-- **Languages:** JavaScript, C#, Java, Python.
-- **Web:** HTML, CSS, WordPress.
-- **Frameworks & Tools:** NodeJS, NextJS, Flutter, Unity, Git, GitHub.
-- **Databases:** MySQL, MongoDB.
-- **Design & UI/UX:** Figma, Adobe Illustrator, Adobe Photoshop, Adobe After Effects.
-- **Project Management:** Jira, Scrum.
-- **Others:** Linux.
 
----
+| Category | Technologies |
+| --- | --- |
+| **Programming Languages** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![C%23](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
+| **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) |
+| **Frameworks** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) |
+| **Game Development** | ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white) |
+| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) |
+| **Design & UX/UI** | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Suite](https://img.shields.io/badge/Adobe%20Suite-FF0000?style=for-the-badge&logo=adobe&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) |
+| **Other Technologies & Methods** | ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Scrum](https://img.shields.io/badge/Scrum-009FDA?style=for-the-badge&logo=scrumalliance&logoColor=white) |
 
-## 🌱 About Me
-- 📚 Constant learner through courses, forums, and hands-on practice.
-- 🤝 I want projects with real-world impact to become a reality.
+<br>
 
----
-
-## 💬 Languages
-- 🌍 [C1 English](https://cert.efset.org/es/v5dLTb)
+## 💬 Spoken Languages
+- <a href="https://cert.efset.org/es/v5dLTb" target="_blank">🌍 C1 English <svg xmlns="http://www.w3.org/2000/svg" height="16px" viewBox="0 -960 960 960" width="16px" fill="#e3e3e3"><path d="M200-120q-33 0-56.5-23.5T120-200v-560q0-33 23.5-56.5T200-840h280v80H200v560h560v-280h80v280q0 33-23.5 56.5T760-120H200Zm188-212-56-56 372-372H560v-80h280v280h-80v-144L388-332Z"/></svg></a>
 - 📍 Native Spanish
 
----
+<br>
 
 ## 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andres-gabriel-fernandez-romero?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BZIC354PBSIG%2BHcru8dIJnA%3D%3D)
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andres-gabriel-fernandez-romero)
 
-✨ Thanks for stopping by! Feel free to explore my repositories and reach out if you'd like to collaborate.
+
+<br><br><br><br><br><br><br>
+
+✨ Thanks for stopping by!
