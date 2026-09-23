@@ -1,4 +1,14 @@
-# <img src="./assets/WavingCat.gif" alt="Waving cat" width="40"/> Hi, I'm Andrés Fernández. Full-Stack Developer
+<table>
+  <tr>
+    <td>
+      <img width="40" height="1"> <img src="./assets/WavingCat.gif" alt="Waving cat"> <img width="80" height="1">
+    </td>
+    <td>
+      <h1>Hey! I'm Andrés Fernández</h1>
+      <h2>Full-Stack Developer</h2>
+    </td>
+  </tr>
+</table>
 
 I am a multimedia engineering student at the Universidad Autónoma de Occidente, currently in my ninth and final semester, complementary training through online courses and self-directed learning. For more than four (4) years, I have participated in academic software development projects of medium to high complexity, which has allowed me to strengthen both my technical skills and my ability to work in a team, lead initiatives, and adapt to different challenges. **<a href="https://myportfolio.andres-g09.vercel.app" target="_blank">Check my portfolio <img src="./assets/open_in_new_16dp_E3E3E3_FILL0_wght400_GRAD0_opsz20.png"></a>**
 
@@ -13,7 +23,7 @@ Say hello to my cat!
 
 - [Ubikasa Deployment](https://github.com/AndresG309/despliegue-ubikasa) — A university project for deploying a website and its supporting microservices that was given to me along with three other classmates. I was responsible for part of the development, for integrating the components created by the others, and for deploying everything on Linux virtual machines (all on my local machine).
 - [SceneMaster - Unity Utility](https://github.com/AndresG309/SceneMaster) — This is a tool I've been working on for using transitions between Unity Scenes. I wanted this to be my first open-source contribution to the community, and i hope someday it could help others.
-- [This Readme design](https://github.com/AndresG309/AndresG309) — I like to understand how things work so I can get the most out of them. This is my way of playing around with Markdown while still being creative!
+- [This Readme design](https://github.com/AndresG309/AndresG309) — I like to understand how things work so I can get the most out of them. This is my way of playing around with Markdown (More specifically Github's Markdown due to its limitations) while still being creative!
 
 These projects are explained better in [my portfolio](https://myportfolio.andres-g09.vercel.app) (hopefully).
 
