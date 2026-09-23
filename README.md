@@ -17,7 +17,10 @@ I am a multimedia engineering student at the Universidad Autónoma de Occidente,
   <img alt="Banner" src="./assets/WalkingCat.gif">
   
   ---
-  You found my cat. Say hello!
+  *You found my cat. Say hello!*
+  
+  <br>
+  
 </details>
 
 ## 👀 Repos Worth Checking Out
