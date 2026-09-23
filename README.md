@@ -1,11 +1,11 @@
-# <img src="./assets/WavingCat.gif" alt="Waving cat" style="width:40px"/> Hi, I'm Andrés Fernández. Full-Stack Developer
+# <img src="./assets/WavingCat.gif" alt="Waving cat" width="40"/> Hi, I'm Andrés Fernández. Full-Stack Developer
 
-I am a multimedia engineering student at the Universidad Autónoma de Occidente, currently in my ninth and final semester, complementary training through online courses and self-directed learning. For more than four (4) years, I have participated in academic software development projects of medium to high complexity, which has allowed me to strengthen both my technical skills and my ability to work in a team, lead initiatives, and adapt to different challenges. **<a href="https://myportfolio.andres-g09.vercel.app" target="_blank">Check my portfolio <svg xmlns="http://www.w3.org/2000/svg" height="16px" viewBox="0 -960 960 960" width="16px" fill="#e3e3e3"><path d="M200-120q-33 0-56.5-23.5T120-200v-560q0-33 23.5-56.5T200-840h280v80H200v560h560v-280h80v280q0 33-23.5 56.5T760-120H200Zm188-212-56-56 372-372H560v-80h280v280h-80v-144L388-332Z"/></svg></a>**
+I am a multimedia engineering student at the Universidad Autónoma de Occidente, currently in my ninth and final semester, complementary training through online courses and self-directed learning. For more than four (4) years, I have participated in academic software development projects of medium to high complexity, which has allowed me to strengthen both my technical skills and my ability to work in a team, lead initiatives, and adapt to different challenges. **<a href="https://myportfolio.andres-g09.vercel.app" target="_blank">Check my portfolio <img src="./assets/open_in_new_16dp_E3E3E3_FILL0_wght400_GRAD0_opsz20.png"></a>**
 
 <img alt="Banner" src="./assets/WalkingCat.gif">
 
 ---
-<small>Say hello to my cat!</small>
+Say hello to my cat!
 
 <br>
 
@@ -36,7 +36,7 @@ These projects are explained better in [my portfolio](https://myportfolio.andres
 <br>
 
 ## 💬 Spoken Languages
-- <a href="https://cert.efset.org/es/v5dLTb" target="_blank">🌍 C1 English <svg xmlns="http://www.w3.org/2000/svg" height="16px" viewBox="0 -960 960 960" width="16px" fill="#e3e3e3"><path d="M200-120q-33 0-56.5-23.5T120-200v-560q0-33 23.5-56.5T200-840h280v80H200v560h560v-280h80v280q0 33-23.5 56.5T760-120H200Zm188-212-56-56 372-372H560v-80h280v280h-80v-144L388-332Z"/></svg></a>
+- <a href="https://cert.efset.org/es/v5dLTb" target="_blank">🌍 C1 English <img src="./assets/open_in_new_16dp_E3E3E3_FILL0_wght400_GRAD0_opsz20.png"></a>
 - 📍 Native Spanish
 
 <br>
@@ -46,6 +46,6 @@ These projects are explained better in [my portfolio](https://myportfolio.andres
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andres-gabriel-fernandez-romero)
 
 
-<br><br><br><br><br><br><br>
+<br><br><br>
 
 ✨ Thanks for stopping by!
