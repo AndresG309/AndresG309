@@ -12,12 +12,13 @@
 
 I am a multimedia engineering student at the Universidad Autónoma de Occidente, currently in my ninth and final semester. For more than four (4) years, I have participated in academic software development projects of medium to high complexity, which has allowed me to strengthen both my technical skills and my ability to work in a team, lead initiatives, and adapt to different challenges. **<a href="https://myportfolio.andres-g09.vercel.app" target="_blank">Check my portfolio <img src="./assets/open_in_new_16dp_E3E3E3_FILL0_wght400_GRAD0_opsz20.png"></a>**
 
-<img alt="Banner" src="./assets/WalkingCat.gif">
-
----
-Say hello to my cat!
-
-<br>
+<details>
+  <summary></summary>
+  <img alt="Banner" src="./assets/WalkingCat.gif">
+  
+  ---
+  You found my cat. Say hello!
+</details>
 
 ## 👀 Repos Worth Checking Out
 
