@@ -10,7 +10,10 @@
   </tr>
 </table>
 
-I am a multimedia engineering student at the Universidad Autónoma de Occidente, currently in my ninth and final semester. For more than four (4) years, I have participated in academic software development projects of medium to high complexity, which has allowed me to strengthen both my technical skills and my ability to work in a team, lead initiatives, and adapt to different challenges. **<a href="https://myportfolio.andres-g09.vercel.app" target="_blank">Check my portfolio <img src="./assets/open_in_new_16dp_E3E3E3_FILL0_wght400_GRAD0_opsz20.png"></a>**
+I am a multimedia engineering student at the Universidad Autónoma de Occidente, currently in my ninth and final semester. For more than four (4) years, I have participated in academic software development projects of medium to high complexity, which has allowed me to strengthen both my technical skills and my ability to work in a team, lead initiatives, and adapt to different challenges. **<a href="https://myportfolio.andres-g09.vercel.app" target="_blank">Check my portfolio. <img src="./assets/open_in_new_16dp_E3E3E3_FILL0_wght400_GRAD0_opsz20.png"></a>**
+
+📍Native Spanish. <br>
+<a href="https://cert.efset.org/es/v5dLTb" target="_blank">🌍 C1 English. <img src="./assets/open_in_new_16dp_E3E3E3_FILL0_wght400_GRAD0_opsz20.png"></a>
 
 <details>
   <summary></summary>
@@ -46,12 +49,6 @@ These projects are explained better in [my portfolio](https://myportfolio.andres
 | **Design & UX/UI** | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Suite](https://img.shields.io/badge/Adobe%20Suite-FF0000?style=for-the-badge&logo=adobe&logoColor=white) |
 | **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) |
 | **Other Technologies & Methods** | ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Scrum](https://img.shields.io/badge/Scrum-009FDA?style=for-the-badge&logo=scrumalliance&logoColor=white) |
-
-<br>
-
-## 💬 Spoken Languages
-- <a href="https://cert.efset.org/es/v5dLTb" target="_blank">🌍 C1 English <img src="./assets/open_in_new_16dp_E3E3E3_FILL0_wght400_GRAD0_opsz20.png"></a>
-- 📍 Native Spanish
 
 <br>
 
