@@ -28,9 +28,9 @@ I am a multimedia engineering student at the Universidad Autónoma de Occidente,
 
 ## 👀 Repos Worth Checking Out
 
-- [Ubikasa Deployment](https://github.com/AndresG309/despliegue-ubikasa) — A university project for deploying a website and its supporting microservices that was given to me along with three other classmates. I was responsible for part of the development, for integrating the components created by the others, and for deploying everything on Linux virtual machines (on my local machine).
+- [Ubikasa Web Deployment](https://github.com/AndresG309/despliegue-ubikasa) — A university project for deploying a website and its supporting microservices that was given to me along with three other classmates. I was responsible for part of the development, for integrating the components created by the others, and for deploying everything on Linux virtual machines (on my local machine).
 - [SceneMaster - Unity Utility](https://github.com/AndresG309/SceneMaster) — This is a tool I've been working on for using transitions between scenes on Unity. It is build as a fluent builder pattern class. I wanted this to be my first open-source contribution to the community, and i hope someday it could help others.
-- [This Readme design](https://github.com/AndresG309/AndresG309) — I like to understand how things work so I can get the most out of them. This is my way of playing around with Markdown (More specifically Github's Markdown due to its limitations) while still being creative!
+- [Expedición UAO](https://github.com/AndresG309/Expedicion-UAO) — A 2D platformer game made in Unity. It is set in my college campus. I was responsible for leading the development team, for developing the core functionalities of the game (Mostly) and for integrating various features made by the team.
 
 These projects are explained better in [my portfolio](https://myportfolio.andres-g09.vercel.app) (hopefully).
 
